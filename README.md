@@ -5,9 +5,9 @@ Modules for VCV Rack
 ## Modules
 
 ### AtenuSight
-Based on Befaco's Dual Atenuverter and Mutable Instruments' Blinds (Quad Polarizer)
+Based on Befaco's [Dual Atenuverter](https://www.befaco.org/dual-atenuverter/) and Mutable Instruments' [Blinds](https://mutable-instruments.net/modules/blinds) ( [Manual](https://mutable-instruments.net/modules/blinds/manual/) )
 
-Utilizes [Andrew Belt](https://github.com/VCVRack)'s code for both Befaco [Dual Atenuverter](https://www.befaco.org/dual-atenuverter/) and 'Audible Instruments' [Blinds](https://mutable-instruments.net/modules/blinds) ( [Manual](https://mutable-instruments.net/modules/blinds/manual/) )
+Utilizes [Andrew Belt](https://github.com/VCVRack)'s code for both [Befaco](https://github.com/VCVRack/Befaco) and [Audible Instruments](https://github.com/VCVRack/AudibleInstruments) 
 
 - Outputs are normalled similar to Blinds
 - CV controls the polarizer/attenuverter
