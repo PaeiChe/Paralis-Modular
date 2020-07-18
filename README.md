@@ -38,7 +38,7 @@ Based on and utilizes [Andrew Belt](https://github.com/VCVRack/AudibleInstrument
 - CPU: Init/Idle(0.1% 0.03µs) Max(0.2% 0.04µs)
 
 ### Zzzh
-Based on RND Step from DivKid & Steady State Fate [RND Step](https://divkidvideo.com/rnd-step-the-third-divkid-eurorack-module/) (Check out DivKid's [Video](https://www.youtube.com/watch?v=hlcXvCN80jU) on RND Step)
+Based on [RND Step](https://divkidvideo.com/rnd-step-the-third-divkid-eurorack-module/) from [DivKid](https://www.youtube.com/channel/UC1zIiKvJIi7aYl2N68pWF8g) & [Steady State Fate](http://www.steadystatefate.com/) (Check out DivKid's [Video](https://www.youtube.com/watch?v=hlcXvCN80jU) on RND Step)
 
 Utilizes [southpole](https://github.com/gbrandt1/southpole-vcvrack) (gbrandt1) code for Sssh  or the lower section of [Kinks](https://mutable-instruments.net/modules/kinks) ( [Manual](https://mutable-instruments.net/modules/kinks/manual/) )
 
