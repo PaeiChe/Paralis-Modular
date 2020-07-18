@@ -47,12 +47,16 @@ Utilizes [southpole](https://github.com/gbrandt1/southpole-vcvrack) (gbrandt1) c
 - Right Output (-+) will sample and hold internal noise and output a bipolar signal. If connected it will sample & hold the Input.
 
 - Left Output (+) is unipolar. 
-  (i) By default the switch is toggled to the left (i.e. away from bipolar output). In this state (+) will sample & hold internal noise.
-  (ii) When the switch toggled to the right (i.e. toward the bipolar output) it will sample & hold the bipolar (-+) output and return a unipolar signal
+  
+    (i) By default the switch is toggled to the left (i.e. away from bipolar output). In this state (+) will sample & hold internal noise.
+    
+    (ii) When the switch toggled to the right (i.e. toward the bipolar output) it will sample & hold the bipolar (-+) output and return a unipolar signal
 
 - Lower Output (Noise) is... you guessed it... Noise (although each noise output is unique/separate)
-  (i) By default the switch is toggled to the left (i.e. away from bipolar output). In this state (noise) will output an audio-rate, gaussian noise signal.
-  (ii) When the switch toggled to the right (i.e. toward the bipolar output) it will sample & hold the bipolar (-+) output and return the inverse of the signal
+
+    (i) By default the switch is toggled to the left (i.e. away from bipolar output). In this state (noise) will output an audio-rate, gaussian noise signal.
+  
+    (ii) When the switch toggled to the right (i.e. toward the bipolar output) it will sample & hold the bipolar (-+) output and return the inverse of the signal
   
  - 4 hp
  
