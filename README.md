@@ -7,6 +7,8 @@ CPU usage testing based on randomized preset and connecting all inputs and outpu
 
 ## Modules
 
+![Paralis Modular Collection July 2020](https://raw.githubusercontent.com/PaeiChe/Paralis-Modular/master/Paralis%20Modular%20July%202020%20V1.0.JPG)
+
 ### AtenuSight
 Based on Befaco's [Dual Atenuverter](https://www.befaco.org/dual-atenuverter/) and Mutable Instruments' [Blinds](https://mutable-instruments.net/modules/blinds) ( [Manual](https://mutable-instruments.net/modules/blinds/manual/) )
 
