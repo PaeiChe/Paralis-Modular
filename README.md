@@ -1,6 +1,7 @@
 # Paralis Modular
 
 Modules for VCV Rack
+
 (CPU testing based on randomized preset and connecting all inputs and outputs to other modules - your mileage may vary)
 
 ## Modules
