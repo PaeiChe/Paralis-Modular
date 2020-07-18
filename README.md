@@ -20,7 +20,7 @@ Utilizes [Andrew Belt](https://github.com/VCVRack)'s code for both [Befaco](http
 
 - Outputs are normalled similar to Blinds
 - CV controls the polarizer/attenuverter
-- Attenuvert +/- by up to x2 for amplifiying signals and Offset up to 10V 
+- Attenuvert +/- by up to 2x for amplifiying signals and Offset up to 10V 
 - 5 hp
 - CPU: Init/Idle(0.5% 0.10µs) Max(0.6% 0.14µs) 
 
