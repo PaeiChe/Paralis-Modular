@@ -2,7 +2,9 @@
 
 Modules for VCV Rack
 
-CPU usage testing based on randomized preset and connecting all inputs and outputs to other modules.
+CPU usage testing based on 
+- initialized and nothing connected 
+- randomized preset and connecting all inputs and outputs to other modules.
 <br>(Your mileage may vary)
 
 ## Modules
@@ -17,7 +19,7 @@ Utilizes [Andrew Belt](https://github.com/VCVRack)'s code for both [Befaco](http
 - Outputs are normalled similar to Blinds
 - CV controls the polarizer/attenuverter
 - 5 hp
-- CPU: 0.6% 0.14µs 
+- CPU: Init/Idle(0.5% 0.10µs) Max(0.6% 0.14µs) 
 
 ### Mini Modal Synthesizer
 Based on the [Antumbra Atom](https://www.antumbra.eu/redesign/atom) ( [Modular Grid](https://www.modulargrid.net/e/antumbra-atom) )
@@ -25,13 +27,13 @@ Based on the [Antumbra Atom](https://www.antumbra.eu/redesign/atom) ( [Modular G
 Utilizes [Andrew Belt](https://github.com/VCVRack/AudibleInstruments)'s code for [Elements](https://mutable-instruments.net/modules/elements) ( [Manual](https://mutable-instruments.net/modules/elements/manual/) )
 
 - 18 hp
-- CPU: 3.1% 0.67µs 
+- CPU: Init/Idle(3.1% 0.55µs) Max(5.1% 0.81µs) 
 
 ### Stiks
 Based on and utilizes [Andrew Belt](https://github.com/VCVRack/AudibleInstruments)'s code for [Branches](https://mutable-instruments.net/modules/branches) ( [Manual](https://mutable-instruments.net/modules/branches/manual/) )
 
 - 2 hp
-- CPU: 0.2% 0.04µs
+- CPU: Init/Idle(0.1% 0.03µs) Max(0.2% 0.04µs)
 
 ### Zzzh
 Based on RND Step from DivKid & Steady State Fate [RND Step](https://divkidvideo.com/rnd-step-the-third-divkid-eurorack-module/) (Check out DivKid's [Video](https://www.youtube.com/watch?v=hlcXvCN80jU) on RND Step)
@@ -54,4 +56,4 @@ Utilizes [southpole](https://github.com/gbrandt1/southpole-vcvrack) (gbrandt1) c
   
  - 4 hp
  
- - CPU: 3.9% 0.87µs (definitely needs optimization)
+ - CPU: Init/Idle(3.7% 0.84µs) Max (3.9% 0.87µs... ya definitely needs optimization)
