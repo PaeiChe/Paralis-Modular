@@ -29,7 +29,7 @@ Based on the [Antumbra Atom](https://www.antumbra.eu/redesign/atom) ( [Modular G
 Utilizes [Andrew Belt](https://github.com/VCVRack/AudibleInstruments)'s code for [Elements](https://mutable-instruments.net/modules/elements) ( [Manual](https://mutable-instruments.net/modules/elements/manual/) )
 
 - 18 hp
-- CPU: Init/Idle(3.1% 0.55µs) Max(5.1% 0.81µs) 
+- CPU: Init/Idle(3.1% 0.55µs) Max(goes up to 5.1% 0.81µs) 
 
 ### Stiks
 Based on and utilizes [Andrew Belt](https://github.com/VCVRack/AudibleInstruments)'s code for [Branches](https://mutable-instruments.net/modules/branches) ( [Manual](https://mutable-instruments.net/modules/branches/manual/) )
@@ -62,6 +62,6 @@ Utilizes [southpole](https://github.com/gbrandt1/southpole-vcvrack) (gbrandt1) c
   
  - 4 hp
  
- - CPU: Init/Idle(3.7% 0.84µs) Max (3.9% 0.87µs... ya definitely needs optimization)
+ - CPU: Init/Idle(3.7% 0.84µs) Max (3.8% 0.87µs... ya definitely needs optimization)
  
  ![Paralis Modular Collection July 2020 patched](https://raw.githubusercontent.com/PaeiChe/Paralis-Modular/master/Paralis%20Modular%20July%202020%20V1%20patched.JPG)
