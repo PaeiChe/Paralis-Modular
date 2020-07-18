@@ -27,7 +27,7 @@ Utilizes [Andrew Belt](https://github.com/VCVRack/AudibleInstruments)'s code for
 Based on and utilizes [Andrew Belt](https://github.com/VCVRack/AudibleInstruments)'s code for [Branches](https://mutable-instruments.net/modules/branches) ( [Manual](https://mutable-instruments.net/modules/branches/manual/) )
 
 - 2 hp
--CPU: 0.2% 0.04µs
+- CPU: 0.2% 0.04µs
 
 ### Zzzh
 Based on RND Step from DivKid & Steady State Fate [RND Step](https://divkidvideo.com/rnd-step-the-third-divkid-eurorack-module/) (Check out DivKid's [Video](https://www.youtube.com/watch?v=hlcXvCN80jU) on RND Step)
