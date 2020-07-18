@@ -2,7 +2,8 @@
 
 Modules for VCV Rack
 
-(CPU testing based on randomized preset and connecting all inputs and outputs to other modules - your mileage may vary)
+CPU testing based on randomized preset and connecting all inputs and outputs to other modules.
+Your mileage may vary.
 
 ## Modules
 
