@@ -1,6 +1,6 @@
 # Paralis Modular
 
-Modules for VCV Rack
+Modules for VCV Rack - free & open-source
 
 https://wot.fandom.com/wiki/Paralis-net
 
