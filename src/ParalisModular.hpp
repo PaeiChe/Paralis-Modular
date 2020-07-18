@@ -7,7 +7,7 @@ using namespace rack;
 extern Plugin *pluginInstance;
 
 extern Model *modelMiniModal;
-extern Model* modelStiks;
+extern Model *modelStiks;
 extern Model *modelAtenuSight;
 extern Model *modelZzzh;
 
