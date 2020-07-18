@@ -7,11 +7,11 @@ Modules for VCV Rack
 ### AtenuSight
 Based on Befaco's Dual Atenuverter and Mutable Instruments' Blinds (Quad Polarizer)
 Utilizes Andrew Belt's code for both Befaco and 'Audible Instruments' modules.
-[Dual Atenuverter](https://www.befaco.org/dual-atenuverter/)
-[Blinds](https://mutable-instruments.net/modules/blinds), [Manual](https://mutable-instruments.net/modules/blinds/manual/)
+[Dual Atenuverter](https://www.befaco.org/dual-atenuverter/) and
+[Blinds](https://mutable-instruments.net/modules/blinds), ( [Manual](https://mutable-instruments.net/modules/blinds/manual/) )
 
 - Outputs are normaled similar to Blinds
-- CV controlls the polarizer/attenuverter
+- CV controls the polarizer/attenuverter
 
 ### Mini Modal Synthesizer
 Based on the [Antumbra Atom] (https://www.antumbra.eu/redesign/atom), [Modular Grid] (https://www.modulargrid.net/e/antumbra-atom)
@@ -30,7 +30,7 @@ Sssh is based  on the lower section of [Kinks](https://mutable-instruments.net/m
 
 - Triggers are normalled
 
-- Right Output (-+) will sample and hold internal noise and output a bipolar signal. If connected it and will sample & hold the Input.
+- Right Output (-+) will sample and hold internal noise and output a bipolar signal. If connected it will sample & hold the Input.
 
 - Left Output (+) is unipolar. 
   (i) By default the switch is toggled to the left (i.e. away from bipolar output). In this state (+) will sample & hold internal noise.
