@@ -15,7 +15,7 @@ Utilizes Andrew Belt's code for both Befaco and 'Audible Instruments' modules.
 - CV controls the polarizer/attenuverter
 
 ### Mini Modal Synthesizer
-Based on the [Antumbra Atom] (https://www.antumbra.eu/redesign/atom), [Modular Grid] (https://www.modulargrid.net/e/antumbra-atom)
+Based on the [Antumbra Atom](https://www.antumbra.eu/redesign/atom) ( [Modular Grid](https://www.modulargrid.net/e/antumbra-atom) )
 
 Utilizes Andrew Belt's code for [Elements](https://mutable-instruments.net/modules/elements) ( [Manual](https://mutable-instruments.net/modules/elements/manual/) )
 
