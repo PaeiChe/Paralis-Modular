@@ -63,3 +63,5 @@ Utilizes [southpole](https://github.com/gbrandt1/southpole-vcvrack) (gbrandt1) c
  - 4 hp
  
  - CPU: Init/Idle(3.7% 0.84µs) Max (3.9% 0.87µs... ya definitely needs optimization)
+ 
+ ![Paralis Modular Collection July 2020 patched](https://raw.githubusercontent.com/PaeiChe/Paralis-Modular/master/Paralis%20Modular%20July%202020%20V1%20patched.JPG)
