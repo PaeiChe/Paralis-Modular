@@ -2,6 +2,8 @@
 
 Modules for VCV Rack
 
+https://wot.fandom.com/wiki/Paralis-net
+
 CPU usage testing based on 
 - initialized and nothing connected 
 - randomized preset and connecting all inputs and outputs to other modules.
