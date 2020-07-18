@@ -7,26 +7,24 @@ Modules for VCV Rack
 ### AtenuSight
 Based on Befaco's Dual Atenuverter and Mutable Instruments' Blinds (Quad Polarizer)
 
-Utilizes Andrew Belt's code for both Befaco [Dual Atenuverter](https://www.befaco.org/dual-atenuverter/) and 'Audible Instruments' [Blinds](https://mutable-instruments.net/modules/blinds) ( [Manual](https://mutable-instruments.net/modules/blinds/manual/) )
+Utilizes [Andrew Belt](https://github.com/VCVRack)'s code for both Befaco [Dual Atenuverter](https://www.befaco.org/dual-atenuverter/) and 'Audible Instruments' [Blinds](https://mutable-instruments.net/modules/blinds) ( [Manual](https://mutable-instruments.net/modules/blinds/manual/) )
 
-- Outputs are normaled similar to Blinds
+- Outputs are normalled similar to Blinds
 - CV controls the polarizer/attenuverter
 
 ### Mini Modal Synthesizer
 Based on the [Antumbra Atom](https://www.antumbra.eu/redesign/atom) ( [Modular Grid](https://www.modulargrid.net/e/antumbra-atom) )
 
-Utilizes Andrew Belt's code for [Elements](https://mutable-instruments.net/modules/elements) ( [Manual](https://mutable-instruments.net/modules/elements/manual/) )
+Utilizes [Andrew Belt](https://github.com/VCVRack/AudibleInstruments)'s code for [Elements](https://mutable-instruments.net/modules/elements) ( [Manual](https://mutable-instruments.net/modules/elements/manual/) )
 
 ### Stiks
-Based on and utilizes Andrew Belt's code for [Branches](https://mutable-instruments.net/modules/branches) ( [Manual](https://mutable-instruments.net/modules/branches/manual/) )
+Based on and utilizes [Andrew Belt](https://github.com/VCVRack/AudibleInstruments)'s code for [Branches](https://mutable-instruments.net/modules/branches) ( [Manual](https://mutable-instruments.net/modules/branches/manual/) )
 
 
 ### Zzzh
 Based on RND Step from DivKid & Steady State Fate [RND Step](https://divkidvideo.com/rnd-step-the-third-divkid-eurorack-module/) (Check out DivKid's [Video](https://www.youtube.com/watch?v=hlcXvCN80jU) on RND Step)
 
-Utilizes southpole (gbrandt1) code for Sssh [southpole](https://github.com/gbrandt1/southpole-vcvrack)
-
-Sssh is based  on the lower section of [Kinks](https://mutable-instruments.net/modules/kinks) ( [Manual](https://mutable-instruments.net/modules/kinks/manual/) )
+Utilizes [southpole](https://github.com/gbrandt1/southpole-vcvrack) (gbrandt1) code for Sssh  or the lower section of [Kinks](https://mutable-instruments.net/modules/kinks) ( [Manual](https://mutable-instruments.net/modules/kinks/manual/) )
 
 - There are 4 identical sections consisting of Trigger, Input, Right Output (-+), Left Output (+) and Lower Output (Noise)
 
@@ -41,4 +39,3 @@ Sssh is based  on the lower section of [Kinks](https://mutable-instruments.net/m
 - Lower Output (Noise) is... you guessed it... Noise (although each noise output is unique/separate)
   (i) By default the switch is toggled to the left (i.e. away from bipolar output). In this state (noise) will output an audio-rate, gaussian noise signal.
   (ii) When the switch toggled to the right (i.e. toward the bipolar output) it will sample & hold the bipolar (-+) output and return the inverse of the signal
-
