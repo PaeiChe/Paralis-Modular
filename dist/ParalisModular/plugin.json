@@ -1,0 +1,58 @@
+{
+  "slug": "ParalisModular",
+  "version": "1.0.0",
+  "license": "GPL-3.0-only",
+  "name": "Paralis Modular",
+  "author": "PaeiChe",
+  "authorEmail": "",
+  "authorUrl": "",
+  "pluginUrl": "",
+  "manualUrl": "",
+  "sourceUrl": "",
+  "changelogUrl": "",
+  "donateUrl": "",
+  "modules": [
+    {
+      "slug": "AtenuSight",
+      "name": "AtenuSight",
+      "description": "Quad Attenuverter & Mixer",
+      "tags": [
+        "Attenuator",
+        "Offset",
+        "Mixer",
+        "VCA"
+      ]
+    },
+    {
+      "slug": "MiniModal",
+      "name": "Mini Modal Synthesizer",
+      "description": "Based on Mutable Instruments Elements",
+      "modularGridUrl": "https://www.modulargrid.net/e/mutable-instruments-elements",
+      "tags": [
+        "Physical modeling",
+        "Hardware clone"
+      ]
+    },
+    {
+      "slug": "Zzzh",
+      "name": "Zzzh",
+      "description": "Based on Divkid RND Step & southpole's Sssh",
+      "modularGridUrl": "https://www.modulargrid.net/e/divkid-rnd-step",
+      "tags": [
+        "Sample and hold"
+      ]
+    },
+    {
+      "slug": "Stiks",
+      "name": "Stiks",
+      "description": "Based on Mutable Instruments Branches",
+      "manualUrl": "https://mutable-instruments.net/modules/branches/manual/",
+      "modularGridUrl": "https://www.modulargrid.net/e/mutable-instruments-branches",
+      "tags": [
+        "Random",
+        "Dual",
+        "Hardware clone"
+      ]
+    }
+  ]
+}
