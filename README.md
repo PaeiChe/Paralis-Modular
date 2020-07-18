@@ -22,7 +22,7 @@ Based on and utilizes Andrew Belt's code for [Branches](https://mutable-instrume
 
 
 ### Zzzh
-Based on RND Step from DivKid & Steady State Fate [RND Step](https://divkidvideo.com/rnd-step-the-third-divkid-eurorack-module/) ( [Video](https://www.youtube.com/watch?v=hlcXvCN80jU) )
+Based on RND Step from DivKid & Steady State Fate [RND Step](https://divkidvideo.com/rnd-step-the-third-divkid-eurorack-module/) ( Check out DivKid's [Video](https://www.youtube.com/watch?v=hlcXvCN80jU) on RND Step)
 Utilizes southpole (gbrandt1) code for Sssh [southpole](https://github.com/gbrandt1/southpole-vcvrack)
 Sssh is based  on the lower section of [Kinks](https://mutable-instruments.net/modules/kinks) ( [Manual](https://mutable-instruments.net/modules/kinks/manual/) )
 
